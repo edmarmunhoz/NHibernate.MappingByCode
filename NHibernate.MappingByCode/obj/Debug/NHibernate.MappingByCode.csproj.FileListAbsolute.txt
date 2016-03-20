@@ -1,0 +1,10 @@
+C:\Users\edmar\Artigos\Mapeamento com nHibernate via código\NHibernate.MappingByCode\NHibernate.MappingByCode\bin\Debug\NHibernate.MappingByCode.exe.config
+C:\Users\edmar\Artigos\Mapeamento com nHibernate via código\NHibernate.MappingByCode\NHibernate.MappingByCode\bin\Debug\NHibernate.MappingByCode.exe
+C:\Users\edmar\Artigos\Mapeamento com nHibernate via código\NHibernate.MappingByCode\NHibernate.MappingByCode\bin\Debug\NHibernate.MappingByCode.pdb
+C:\Users\edmar\Artigos\Mapeamento com nHibernate via código\NHibernate.MappingByCode\NHibernate.MappingByCode\bin\Debug\Iesi.Collections.dll
+C:\Users\edmar\Artigos\Mapeamento com nHibernate via código\NHibernate.MappingByCode\NHibernate.MappingByCode\bin\Debug\NHibernate.dll
+C:\Users\edmar\Artigos\Mapeamento com nHibernate via código\NHibernate.MappingByCode\NHibernate.MappingByCode\bin\Debug\Iesi.Collections.xml
+C:\Users\edmar\Artigos\Mapeamento com nHibernate via código\NHibernate.MappingByCode\NHibernate.MappingByCode\bin\Debug\NHibernate.xml
+C:\Users\edmar\Artigos\Mapeamento com nHibernate via código\NHibernate.MappingByCode\NHibernate.MappingByCode\obj\Debug\NHibernate.MappingByCode.csprojResolveAssemblyReference.cache
+C:\Users\edmar\Artigos\Mapeamento com nHibernate via código\NHibernate.MappingByCode\NHibernate.MappingByCode\obj\Debug\NHibernate.MappingByCode.exe
+C:\Users\edmar\Artigos\Mapeamento com nHibernate via código\NHibernate.MappingByCode\NHibernate.MappingByCode\obj\Debug\NHibernate.MappingByCode.pdb
