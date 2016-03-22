@@ -48,6 +48,8 @@ namespace NHibernate.MappingByCode
             sessao.Save(produto3);
             sessao.Transaction.Commit();
 
+            var produtos = sessao.Get<Produto>(1);
+
             Console.ReadKey();
         }
     }

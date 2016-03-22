@@ -10,20 +10,10 @@ using Configuration = NHibernate.Cfg.Configuration;
 
 namespace NHibernate.MappingByCode
 {
-    /// <summary>
-    /// Helper quer fornece métodos para trabalhar com o NHibernate.
-    /// </summary>
     public class NHibernateHelper
     {
-        /// <summary>
-        /// Propriedade estática do tipo ISessionFactory.
-        /// </summary>
         private static ISessionFactory factory = RecuperaConfiguracao().BuildSessionFactory();
 
-        /// <summary>
-        /// Método estático que retorna a configuração do NHibernate para aplicação.
-        /// </summary>
-        /// <returns>Retorna obejto do tipo Configuration.</returns>
         public static Configuration RecuperaConfiguracao()
         {
             Configuration cfg = new Configuration();
@@ -44,18 +34,11 @@ namespace NHibernate.MappingByCode
             return cfg;
         }
 
-        /// <summary>
-        /// Método estático utilizado para abrir uma sessão do NHibernate.
-        /// </summary>
-        /// <returns>Retorna um objeto do tipo ISession.</returns>
         public static ISession AbreSessao()
         {
             return factory.OpenSession();
         }
 
-        /// <summary>
-        /// Método estático utilizado para gerar a estrutura do banco de dados.
-        /// </summary>
         public static void GeraSchema()
         {
             Configuration cfg = RecuperaConfiguracao();
