@@ -48,7 +48,9 @@ namespace NHibernate.MappingByCode
             sessao.Save(produto3);
             sessao.Transaction.Commit();
 
-            var produtos = sessao.Get<Produto>(1);
+            var produto = sessao.Get<Produto>(1);
+
+            Console.WriteLine(string.Format("Id do produto: {0} - Descrição: {1}", produto.Id, produto.Descricao));
 
             Console.ReadKey();
         }
